@@ -6,6 +6,7 @@ This is a practice project named "Maps" built with TypeScript. The project is de
 
 - Written in TypeScript for type safety and modern JavaScript features.
 - Utilizes Parcel for fast and efficient bundling.
+- Object Orien
 
 ## Run Project
 
