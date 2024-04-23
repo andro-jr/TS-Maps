@@ -1,5 +1,17 @@
 {
+  "name": "ts-maps",
+  "description": "This is a practice project named \"Maps\" built with TypeScript. The project is designed to explore and practice using various mapping technologies and TypeScript. We use the Parcel bundler to compile and bundle TypeScript files, allowing seamless execution in the browser.",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "npx parcel index.html"
+  },
+  "author": "Prabin Pant",
+  "license": "ISC",
   "dependencies": {
-    "@faker-js/faker": "^7.6.0"
+    "@faker-js/faker": "^7.6.0",
+    "@types/google.maps": "^3.55.7"
   }
 }
