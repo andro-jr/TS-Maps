@@ -1,7 +1,9 @@
-import { Company } from './Company';
 import { Map } from './Map';
+import { Company } from './Company';
 import { User } from './User';
 
 const user = new User();
 const company = new Company();
-new Map('map');
+const map = new Map('map');
+
+map.addUserMarker(user);
